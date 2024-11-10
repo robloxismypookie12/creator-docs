@@ -1,6 +1,6 @@
 ---
-title: Avatar Items
-description: Sell community created Avatar items exclusively through your experience.
+title: roblox is my pookie <3
+description: roblox is my pookie shirt is a shirt for people who play roblox wayy to much, like me, but until i start getting money, im just a silly goffy goober who likes to make shirts <3
 ---
 
 **Avatar items** are 3D assets, such as accessories and clothing, that Roblox avatars can equip and wear. While many avatar items are sold on the Roblox's Marketplace, you can work with item creators to sell avatar items exclusively in your experience.
